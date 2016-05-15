@@ -13,7 +13,7 @@ print(""""
 | [+] AUTOR:	Guilherme Cesar dos Santos       |
 | [+] EMAIL:	gui.gui.guilhermec@hotmail.com   |
 | [+] GITHUB:	github.com/helloitu              |
-| [+] FACEBOOK:	fb.com/guilherme.cesar           |
+| [+] FACEBOOK:	fb.com/guilherme.cesar520        |
 --------------------------------------------------
 
 """)
